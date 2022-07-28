@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a recent computer science master graduate.<br> :bar_chart: Data enthusiast<br>👯 I’m looking to collaborate on data science open source projects<br>🌱 I’m currently improving my data science and analytics abilities<br>
+🔭 I’m a recent computer science master graduate.<br> :bar_chart: Data enthusiast<br>👯 I’m looking to to develop my career in Data Science. <br>🌱 I’m currently improving my data science and analytics abilities<br>
 
 
 ## 🌐 Socials:
